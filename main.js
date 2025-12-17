@@ -167,8 +167,3 @@
 let lightColour = 'green';
 
 lightColour == 'green' ? console.log('Drive!') : console.log('Stop, do not Go!');
-
-let lightColour = 'green';
-
-lightColour === 'green' ? console.log('Drive!') : console.log('Stop, do not Go!')
-
